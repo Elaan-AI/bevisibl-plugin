@@ -4,7 +4,7 @@
     "name": "bevisibl",
     "url": "https://bevisibl.io"
   },
-  "description": "BeVisibl's official Codex plugin marketplace.",
+  "description": "Bevisibl's official Codex plugin marketplace.",
   "plugins": [
     {
       "name": "bevisibl",

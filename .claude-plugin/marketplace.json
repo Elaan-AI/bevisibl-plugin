@@ -4,7 +4,7 @@
     "name": "bevisibl",
     "url": "https://bevisibl.io"
   },
-  "description": "BeVisibl's official Claude Code plugin marketplace.",
+  "description": "Bevisibl's official Claude Code plugin marketplace.",
   "plugins": [
     {
       "name": "bevisibl",

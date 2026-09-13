@@ -1,7 +1,7 @@
-# BeVisibl plugin
+# Bevisibl plugin
 
-Official BeVisibl plugin for Claude Code, Codex, and Cursor: it connects your
-agent to the BeVisibl MCP server and installs the BeVisibl SEO skills.
+Official Bevisibl plugin for Claude Code, Codex, and Cursor: it connects your
+agent to the Bevisibl MCP server and installs the Bevisibl SEO skills.
 
 ## Install
 
@@ -19,7 +19,7 @@ codex plugin marketplace add Elaan-AI/bevisibl-plugin
 codex plugin add bevisibl@bevisibl
 ```
 
-Sign in with your BeVisibl account when the MCP connection prompts you.
+Sign in with your Bevisibl account when the MCP connection prompts you.
 Docs: https://bevisibl.io/docs
 
 ## Contents
@@ -27,5 +27,5 @@ Docs: https://bevisibl.io/docs
 - `plugins/bevisibl/` — the plugin: MCP server config and `skills/*/SKILL.md`
 - `.claude-plugin/`, `.codex-plugin/`, `.cursor-plugin/` — marketplace manifests
 
-The plugin package is MIT licensed. BeVisibl itself is a hosted service —
+The plugin package is MIT licensed. Bevisibl itself is a hosted service —
 see https://bevisibl.io/pricing.

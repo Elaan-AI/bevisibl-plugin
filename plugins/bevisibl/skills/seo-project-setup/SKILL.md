@@ -1,13 +1,13 @@
 ---
 name: seo-project-setup
-description: Populate a project's shared BeVisibl context — site scope, goals, positioning, competitors, key pages, and preferences — plus MCP checks and Search Console intake.
+description: Populate a project's shared Bevisibl context — site scope, goals, positioning, competitors, key pages, and preferences — plus MCP checks and Search Console intake.
 ---
 
-# BeVisibl SEO Project Setup
+# Bevisibl SEO Project Setup
 
 ## Goal
 
-Interview the user once about one website or SEO project, and store the answers in that project's shared context in BeVisibl with `update_project_context`. That context is read by every other skill, by Iris in the app, and by the user on the project's Context settings page — so it survives new sessions, new machines, and new agents. This is a context setup workflow, not a full audit.
+Interview the user once about one website or SEO project, and store the answers in that project's shared context in Bevisibl with `update_project_context`. That context is read by every other skill, by Iris in the app, and by the user on the project's Context settings page — so it survives new sessions, new machines, and new agents. This is a context setup workflow, not a full audit.
 
 ## Tone
 
@@ -29,7 +29,7 @@ Write in batches as the interview progresses — do not hold every answer until 
 
 ## Checklist
 
-### 1. Verify BeVisibl MCP and resolve the project
+### 1. Verify Bevisibl MCP and resolve the project
 
 Writes need a `projectId`, so do this first:
 
@@ -38,13 +38,13 @@ Writes need a `projectId`, so do this first:
 3. Match the project to the website/domain they want to rank for.
 4. If the project list is ambiguous, ask the user which project should be used.
 5. If no project matches, offer to create one with `create_project`.
-6. If the MCP is unavailable, tell the user to connect BeVisibl MCP; without it, nothing can be saved.
+6. If the MCP is unavailable, tell the user to connect Bevisibl MCP; without it, nothing can be saved.
 
 Do not run research tools just to test connectivity; `whoami` and `list_projects` are enough.
 
 ### 2. Read what is already there
 
-Call `get_project_context`. Show the user a short summary of what BeVisibl already knows and what is missing. Confirm or correct existing entries rather than re-asking questions that are already answered — this skill is often re-run after another skill filled in part of the context.
+Call `get_project_context`. Show the user a short summary of what Bevisibl already knows and what is missing. Confirm or correct existing entries rather than re-asking questions that are already answered — this skill is often re-run after another skill filled in part of the context.
 
 ### 3. Collect website scope
 
@@ -140,7 +140,7 @@ gsc/pages-last-16-months.csv
 
 ### 9. Set up a local folder only for file work
 
-Project knowledge lives in BeVisibl, not on disk. A local folder is still useful for the things that are actually files: GSC CSV exports, crawls, drafts, briefs, and reports.
+Project knowledge lives in Bevisibl, not on disk. A local folder is still useful for the things that are actually files: GSC CSV exports, crawls, drafts, briefs, and reports.
 
 If the user wants one, suggest `~/SEO/<company-or-site>/` or a folder beside the website/content repo, with a structure like:
 
@@ -155,7 +155,7 @@ Do not create folders unless the user asks, and do not duplicate goals, position
 
 ### 10. Recommend first workflow
 
-After intake, recommend one next BeVisibl workflow:
+After intake, recommend one next Bevisibl workflow:
 
 - `seo-audit`: when the site already exists and the user wants to know what to fix or do first, especially if they are new to SEO
 - `keyword-research`: when the user needs ideas from seed topics
@@ -173,7 +173,7 @@ Use a checklist with statuses:
 
 Then summarize:
 
-- BeVisibl MCP/project status
+- Bevisibl MCP/project status
 - Sites in scope
 - Goals
 - Known positioning
