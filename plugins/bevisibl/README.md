@@ -1,8 +1,8 @@
-# Bevisibl for Cursor
+# bevisibl for Cursor
 
 SEO made simple.
 
-Bevisibl gives your agent real SEO data and guided workflows, so its advice is grounded in your website instead of generic recommendations.
+bevisibl gives your agent real SEO data and guided workflows, so its advice is grounded in your website instead of generic recommendations.
 
 ## What you can do
 
@@ -13,13 +13,13 @@ Bevisibl gives your agent real SEO data and guided workflows, so its advice is g
 - Track organic and Google Maps rankings
 - Work with Google Search Console and Analytics data
 
-The plugin includes nine skills that guide Cursor through complete SEO workflows, plus the hosted Bevisibl MCP server for live data and project management.
+The plugin includes nine skills that guide Cursor through complete SEO workflows, plus the hosted bevisibl MCP server for live data and project management.
 
 ## Connect
 
-Install the Bevisibl plugin from the Cursor Marketplace. The first time Cursor uses a Bevisibl tool, follow the OAuth prompt to sign in and approve the connection.
+Install the bevisibl plugin from the Cursor Marketplace. The first time Cursor uses a bevisibl tool, follow the OAuth prompt to sign in and approve the connection.
 
-You need a Bevisibl account. The plugin package is free and open source. Hosted Bevisibl plans and usage credits are described at [bevisibl.io/pricing](https://bevisibl.io/pricing).
+You need a bevisibl account. The plugin package is free and open source. Hosted bevisibl plans and usage credits are described at [bevisibl.io/pricing](https://bevisibl.io/pricing).
 
 ## Try it
 
@@ -43,7 +43,7 @@ You need a Bevisibl account. The plugin package is free and open source. Hosted 
 
 ## Links
 
-- [Bevisibl](https://bevisibl.io)
+- [bevisibl](https://bevisibl.io)
 - [MCP documentation](https://bevisibl.io/docs/mcp)
 - [Privacy policy](https://bevisibl.io/privacy)
 - [Terms](https://bevisibl.io/terms-and-conditions)
