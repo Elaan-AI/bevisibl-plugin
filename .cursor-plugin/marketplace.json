@@ -1,0 +1,17 @@
+{
+  "name": "bevisibl",
+  "owner": {
+    "name": "bevisibl",
+    "email": "hello@bevisibl.io"
+  },
+  "metadata": {
+    "description": "BeVisibl's official Cursor plugin marketplace."
+  },
+  "plugins": [
+    {
+      "name": "bevisibl",
+      "source": "plugins/bevisibl",
+      "description": "SEO made simple. Research keywords and competitors, audit sites, track rankings, and use Search Console data from your agent."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "bevisibl",
+  "version": "1.0.0",
+  "description": "SEO made simple. Research keywords and competitors, audit sites, track rankings, and use Search Console data from your agent.",
+  "author": {
+    "name": "bevisibl",
+    "email": "hello@bevisibl.io"
+  },
+  "homepage": "https://bevisibl.io",
+  "repository": "https://github.com/Elaan-AI/bevisibl-plugin",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "keyword-research",
+    "competitor-research",
+    "site-audit",
+    "backlinks",
+    "search-console",
+    "rank-tracking",
+    "local-seo"
+  ],
+  "logo": "https://bevisibl.io/android-chrome-512x512.png",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}
